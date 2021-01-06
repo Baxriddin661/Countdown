@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.countdown{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 635px;
+    align-items: center;
+    background: url(../IMG/img/1.jpg)no-repeat center / cover;
+}
+
+.time{
+    padding: 100px;
+}
+
+#loading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
