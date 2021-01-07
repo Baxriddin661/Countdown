@@ -9,7 +9,7 @@ const year = document.querySelector('#year');
 
 const currentYear = new Date().getFullYear();
 const newYearTime = new Date(`january 14 ${currentYear} 00:00:00`);
-year.innerHTML = currentYear+1;
+year.innerHTML = currentYear;
 
 function updateCountDown(){
     const currentTime = new Date();
