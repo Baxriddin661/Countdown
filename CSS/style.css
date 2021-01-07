@@ -23,3 +23,11 @@
     align-items: center;
     justify-content: center;
 }
+
+#year{
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    font-size: 100px;
+    color : rgba(ff, ff, ff, 0.500);
+}
