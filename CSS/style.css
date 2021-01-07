@@ -27,6 +27,6 @@
 #year{
     position: absolute;
     top: 100px;
-    left: 55%;
+    margin: auto;
     font-size: 200px;
     color : rgba(2, 2, 2, 0.600);}
